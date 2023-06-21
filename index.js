@@ -41,7 +41,7 @@ class RandomSentences {
       );
     const index = this.#getRandomIndexUnique(uniqueUpto);
 
-    return sentences[index];
+    return sentences[index].trim();
   }
 }
 
