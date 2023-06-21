@@ -1,6 +1,6 @@
 {
   "name": "random-words-and-sentences",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get random words and sentences.",
   "main": "index.js",
   "scripts": {
